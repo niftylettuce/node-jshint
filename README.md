@@ -8,6 +8,12 @@ To use jshint from any location (for npm v1.x) you need to install using the glo
 
     npm install -g jshint
 
+## Symbolic Link to ~/.jshint
+
+```bash
+ln -s ~/Public/node-jshint/.jshintrc ./.jshintrc
+```
+
 ## Usage
 
 The command line interface looks like this.
