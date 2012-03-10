@@ -11,7 +11,8 @@
         "waitsFor",
         "runs",
         "alert",
-        "confirm"
+        "confirm",
+        "Modernizr"
     ],
 
     "node" : true,
