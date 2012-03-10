@@ -9,12 +9,15 @@
         "beforeEach",
         "waits",
         "waitsFor",
-        "runs"
+        "runs",
+        "alert",
+        "confirm"
     ],
 
     "node" : true,
     "es5" : true,
     "browser" : true,
+    "jquery": true,
 
     "boss" : false,
     "curly": false,
@@ -24,17 +27,19 @@
     "evil": true,
     "forin": false,
     "immed": true,
-    "laxbreak": false,
+    "laxbreak": true,
+    "laxcomma": true,
     "newcap": true,
     "noarg": true,
     "noempty": false,
     "nonew": false,
     "nomen": false,
-    "onevar": true,
+    "onevar": false,
     "plusplus": false,
     "regexp": false,
     "undef": true,
     "sub": true,
     "strict": false,
-    "white": true
+    "white": false,
+    "indent": 2
 }
