@@ -12,7 +12,8 @@
         "runs",
         "alert",
         "confirm",
-        "Modernizr"
+        "Modernizr",
+        "_"
     ],
 
     "node" : true,
