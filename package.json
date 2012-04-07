@@ -1,6 +1,6 @@
 {
   "name": "jshint",
-  "version": "0.5.9",
+  "version": "0.6.0",
   "description": "A CLI for JSHint",
   "homepage": "http://github.com/jshint/node-jshint",
   "author": {
@@ -24,11 +24,11 @@
     "lib"
   ],
   "dependencies": {
-    "argsparser": ">=0.0.3",
-    "minimatch": ">=0.0.4"
+    "argsparser": "0.0.x",
+    "minimatch": "0.0.x"
   },
   "devDependencies": {
-    "jasmine-node": "1.0.7"
+    "jasmine-node": "1.0.x"
   },
   "preferGlobal" : true
 }
