@@ -13,7 +13,9 @@
         "alert",
         "confirm",
         "Modernizr",
-        "_"
+        "_",
+        "impress",
+        "exports"
     ],
 
     "node" : true,
