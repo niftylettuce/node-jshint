@@ -15,13 +15,16 @@
         "Modernizr",
         "_",
         "impress",
-        "exports"
+        "exports",
+        "self"
     ],
 
     "node" : true,
     "es5" : true,
     "browser" : true,
     "jquery": true,
+
+    "exports": true,
 
     "boss" : false,
     "curly": false,
